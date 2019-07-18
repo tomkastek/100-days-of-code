@@ -30,3 +30,15 @@
 **Link(s) to work**
 1. [Flutter Timer Tutorial](https://felangel.github.io/bloc/#/fluttercountertutorial)
 2. [My repository](https://github.com/tomkastek/BLoC_tutorials_felangel)
+
+### Day 3: July 19, Thursday
+
+**Today's Progress**: Implemented the bloc pattern into my puzzle game project. Initialized a random state instead of a static one
+
+**What I've learned**:
+- How to use Random class in Flutter
+
+**Thoughts** I still struggle in figuring out what code needs to be in my bloc and what kind of code needs to be contained in my state. I think I have to do some tutorials next.
+
+**Link(s) to work**
+2. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
