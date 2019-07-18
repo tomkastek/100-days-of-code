@@ -41,4 +41,4 @@
 **Thoughts** I still struggle in figuring out what code needs to be in my bloc and what kind of code needs to be contained in my state. I think I have to do some tutorials next.
 
 **Link(s) to work**
-2. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
