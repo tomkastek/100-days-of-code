@@ -51,3 +51,16 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 5: July 21, Saturday
+
+**Today's Progress**: Items for puzzle game are draggable. Extended the GridBloc on the game to include a dragging event and state.
+
+**What I've learned**:
+- Draggables child, feedback and childWhenDragging
+- How to place Draggables feedback
+
+**Thoughts** I was way to tired yesterday. More success on my plans today. I should not forget to further study the bloc tutorials. 
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
