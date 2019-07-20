@@ -42,3 +42,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 4: July 20, Friday
+
+**Today's Progress**: Implemented tired in the night. Tried to add a Draggable to my gaming app -didn't worked
+
+**Thoughts** Combination of grid cell states with interchangeable object on them is not that easy for me. 
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
