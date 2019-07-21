@@ -64,3 +64,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 6: July 22, Sunday
+
+**Today's Progress**: The draggable items in my puzzle game can be now changed (Worked with DragTargets, added a new event to Bloc)
+
+**Thoughts** Nothing special today, just lost time because I was to dumb to realise I changed an x with y Position at some point.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
