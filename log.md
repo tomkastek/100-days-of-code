@@ -73,3 +73,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 7: July 23, Monday
+
+**Today's Progress**:  My puzzle game has a first working puzzle mechanic.
+
+**Thoughts** Still not sure how to handle faster user interaction than bloc building. But it was fun to try some workarounds. Happy with my first version :) 
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
