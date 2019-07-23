@@ -82,3 +82,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 8: July 24, Tuesday
+
+**Today's Progress**:  Only refactored my puzzle game.
+
+**Thoughts** I need to find out if its better to get the bloc state and pass the state to underlying widget or if I should build a blockbuilder in ever subtree.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
