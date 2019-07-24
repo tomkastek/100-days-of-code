@@ -91,3 +91,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 9: July 25, Wednesday
+
+**Today's Progress**:  More refactoring and a frist test on my puzzle game.
+
+**Thoughts** -
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
