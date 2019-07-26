@@ -31,7 +31,7 @@
 1. [Flutter Timer Tutorial](https://felangel.github.io/bloc/#/fluttercountertutorial)
 2. [My repository](https://github.com/tomkastek/BLoC_tutorials_felangel)
 
-### Day 3: July 19, Thursday
+### Day 3: July 19, Friday
 
 **Today's Progress**: Implemented the bloc pattern into my puzzle game project. Initialized a random state instead of a static one
 
@@ -43,7 +43,7 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 
-### Day 4: July 20, Friday
+### Day 4: July 20, Saturday
 
 **Today's Progress**: Implemented tired in the night. Tried to add a Draggable to my gaming app -didn't worked
 
@@ -52,7 +52,7 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 
-### Day 5: July 21, Saturday
+### Day 5: July 21, Sunday
 
 **Today's Progress**: Items for puzzle game are draggable. Extended the GridBloc on the game to include a dragging event and state.
 
@@ -65,7 +65,7 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 
-### Day 6: July 22, Sunday
+### Day 6: July 22, Monday
 
 **Today's Progress**: The draggable items in my puzzle game can be now changed (Worked with DragTargets, added a new event to Bloc)
 
@@ -74,7 +74,7 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 
-### Day 7: July 23, Monday
+### Day 7: July 23, Tuesday
 
 **Today's Progress**:  My puzzle game has a first working puzzle mechanic.
 
@@ -83,7 +83,7 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 
-### Day 8: July 24, Tuesday
+### Day 8: July 24, Wednesday
 
 **Today's Progress**:  Only refactored my puzzle game.
 
@@ -92,9 +92,18 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 
-### Day 9: July 25, Wednesday
+### Day 9: July 25, Thursday
 
 **Today's Progress**:  More refactoring and a frist test on my puzzle game.
+
+**Thoughts** -
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 10: July 26, Friday
+
+**Today's Progress**: I changed a string representation to a object one, fixed a bug because of draggable and startet a branch to resolve my puzzled board.
 
 **Thoughts** -
 
