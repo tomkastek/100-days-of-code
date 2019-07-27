@@ -109,3 +109,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 11: July 27, Saturday
+
+**Today's Progress**: Added a grid model to my puzzle game, started to think about resolving of the puzzle
+
+**Thoughts** -
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
