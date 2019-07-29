@@ -118,3 +118,14 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 12: July 29, Monday
+
+**Today's Progress**: Resolving my puzzle board as a first version.
+
+**What I've learned**: List are not directly compareable. I need to check this one as my grid is a List.
+
+**Thoughts** Missed a day: feeling bad now :( but I finalized the first resolving version of my puzzle board. Still a lot of optimization, animations will follow after.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
