@@ -129,3 +129,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 13: July 30, Tuesday
+
+**Today's Progress**: My puzzle is solving without delay. Did refactoring for code reduction and extracting a custom Point object.
+
+**Thoughts** The plan to let fall down my items and spawn new ones after will be later. First I need a better solving of my puzzle. The goal is to not only solve in one direction but crosses and boxes also.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
