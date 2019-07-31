@@ -138,3 +138,12 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 14: July 31, Wednesday
+
+**Today's Progress**: Last step to resolve all possible combinations I can think of right now in my puzzle game.
+
+**Thoughts** It was an interesting challenge to think in all possible directions. Next I need to refill the board.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
