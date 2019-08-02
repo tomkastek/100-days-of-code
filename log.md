@@ -147,3 +147,21 @@
 
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 15: August 01, Thursday
+
+**Today's Progress**: After the grid is solved, all left items fall down. The board gets refilled and calculated again. This process continues until there is no row anymore.
+
+**Thoughts** This was the last step of my first resolving version. I will start another side project now.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+
+### Day 16: August 02, Friday
+
+**Today's Progress**: Startet a new project by converting my blog into an app.
+
+**Thoughts** Was faster than expected. After three hours I had a first version I was really happy with. Now I need a lot of design optimizations, more post loadings etc. Probably will work further on a private repo.
+
+**Link(s) to work**
+1. [Blog to app repo](https://github.com/tomkastek/flutter_blog_to_app)
