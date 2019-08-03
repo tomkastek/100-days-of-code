@@ -165,3 +165,15 @@
 
 **Link(s) to work**
 1. [Blog to app repo](https://github.com/tomkastek/flutter_blog_to_app)
+
+### Day 17: August 03, Saturday
+
+**Today's Progress**: Added Hero animations to my "blog to app" project.  
+
+**What I've learned**: Using Hero Animations (basics).
+
+**Thoughts** It was so easy to implement and looks so great. I will definitly use them more often now.
+
+**Link(s) to work**
+1. Private Repository
+2. [Hero Animations Docs](https://flutter.dev/docs/development/ui/animations/hero-animations)
