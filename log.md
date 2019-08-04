@@ -177,3 +177,14 @@
 **Link(s) to work**
 1. Private Repository
 2. [Hero Animations Docs](https://flutter.dev/docs/development/ui/animations/hero-animations)
+
+### Day 18: August 04, Sunday
+
+**Today's Progress**: Added a close hint to my "blog to app" project and played around with colors. 
+
+**What I've learned**: AppBar is overriding the system behaviours for status bar brightness ... took way too long until I realized that.
+
+**Thoughts** No big progress compared to the last days because I had too many problems with that appbar :D But thats okay.
+
+**Link(s) to work**
+1. Private Repository
