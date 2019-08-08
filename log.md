@@ -187,4 +187,42 @@
 **Thoughts** No big progress compared to the last days because I had too many problems with that appbar :D But thats okay.
 
 **Link(s) to work**
-1. Private Repository
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 19: August 05, Monday
+
+**Today's Progress**: Only did some small UI changes on my blog project
+
+**Thoughts** --
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 20: August 06, Tuesday
+
+**Today's Progress**: Solving an html uncoding bug, integrated sqflite  to my blog project.
+
+**Thoughts** sqflite is probably easier than I thought on first look. Have to try it out tomorrow
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 21: August 07, Wednesday
+
+**Today's Progress**: Using sqflite to store posts locally and reload them on offline app start
+
+**What I've learned**: Creating a table in sqflite, setting and updating data into it, loading in back.
+
+**Thoughts** Forgot to commit changes on eob :( Basics of sqflite are totally understandable. Had some problems because I prepared the database for multiple blogs
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 22: August 08, Thursday
+
+**Today's Progress**: Integrated flutter_bloc to handle post state. Added a first opening loading screen (after splash screen before showing table of content with loading bar)
+
+**Thoughts** Happy that I am doing it now and not even later. I only need to think about states and changed one streambuilder to blocprovider. 
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
