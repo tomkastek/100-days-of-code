@@ -226,3 +226,14 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 23: August 09, Friday
+
+**Today's Progress**: Changed the sorting of articles (and reloading) by date instead of id. Changed ListView to SliverListView to add Pull to refresh
+
+**What I've learned**: Basics of SliverLists
+
+**Thoughts** Next step will be how to keep the scrolling position if new data is loaded and change the onRefresh callback to listen for a bloc callback. 
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
