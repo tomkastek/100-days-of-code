@@ -237,3 +237,14 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 24: August 10, Saturday
+
+**Today's Progress**: Needed to refactor my code because wordpress api is using local date instead of gmt/utc. for api calls. Also fixed that bloc is not yielding a new state if list of posts wasn't changing.
+
+**What I've learned**: flutter_bloc not only needs a new state instance to rebuild. It also needs a newly created list by List.from() if a property is a list to rebuild.
+
+**Thoughts** Still need to listen on the state change in my pull_to_refresh on_refresh function to hide the identicator.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
