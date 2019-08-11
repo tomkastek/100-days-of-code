@@ -248,3 +248,14 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 25: August 11, Sunday
+
+**Today's Progress**: Last step to bring my pull_to_refresh to work as expected. Added a fixed size to feature images so that they do not load after on fast scrolling. Did some changes to define code based on android or ios.
+
+**What I've learned**: My math skills are a little rusty. Need to use a learning app again.
+
+**Thoughts** Happy with my daily evening process although I was not 100% concentrated.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
