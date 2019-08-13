@@ -259,3 +259,24 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 26: August 12, Monday
+
+**Today's Progress**: I tried to keep scroll position if I load new posts (wip) so I added a ScrollController() for example.
+
+**What I've learned**: ScrollController() can be used to easily keep scroll position if you laod new data at the end of the list but not if you load them in the beginning.
+
+**Thoughts** Really struggling to get this one done.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 27: August 13, Tuesday
+
+**Today's Progress**: Shortly worked on my puzzle game again to fix a bug -> can play after one clear again. On my blog project: First solution to keep the scrollPosition on reload. It works but is not optimal
+
+**Thoughts** I should write my thoughts about keeping the scroll position in a blog post. Really hard to get this one done.
+
+**Link(s) to work**
+1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
+2. [Private Repository](https://github.com/tomkastek/blog_to_app)
