@@ -280,3 +280,12 @@
 **Link(s) to work**
 1. [My puzzle_game repository](https://github.com/tomkastek/puzzle_game)
 2. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 28: August 14, Wednesday
+
+**Today's Progress**: Found a final solution how to rebuild my list with new posts loading on top.
+
+**Thoughts** Still not happy because there is a small flash.
+
+**Link(s) to work**
+2. [Private Repository](https://github.com/tomkastek/blog_to_app)
