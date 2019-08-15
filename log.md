@@ -289,3 +289,12 @@
 
 **Link(s) to work**
 2. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 29: August 15, Thursday
+
+**Today's Progress**: Implemented an endless scroll at the end of my list to load older posts all the time.
+
+**Thoughts** It looks so much smoother than loading posts on top of the list :/ Flutter should support this behaviour.
+
+**Link(s) to work**
+2. [Private Repository](https://github.com/tomkastek/blog_to_app)
