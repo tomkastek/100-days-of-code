@@ -288,7 +288,7 @@
 **Thoughts** Still not happy because there is a small flash.
 
 **Link(s) to work**
-2. [Private Repository](https://github.com/tomkastek/blog_to_app)
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
 
 ### Day 29: August 15, Thursday
 
@@ -297,4 +297,16 @@
 **Thoughts** It looks so much smoother than loading posts on top of the list :/ Flutter should support this behaviour.
 
 **Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 30: August 17, Friday
+
+**Today's Progress**: Started to create a login/register flow with firebase. Followed the flutter_bloc tutorial for this.
+
+**What I've learned**: How to use firebase_auth in flutter
+
+**Thoughts** -
+
+**Link(s) to work**
+1. [flutter_bloc Firebase Login Tutorial](https://felangel.github.io/bloc/#/flutterfirebaselogintutorial)
 2. [Private Repository](https://github.com/tomkastek/blog_to_app)
