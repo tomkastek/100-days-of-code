@@ -310,3 +310,13 @@
 **Link(s) to work**
 1. [flutter_bloc Firebase Login Tutorial](https://felangel.github.io/bloc/#/flutterfirebaselogintutorial)
 2. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 31: August 18, Sunday
+
+**Today's Progress**: Added registration screen for firebase_auth.
+
+**Thoughts** Still OAuth configuration missed
+
+**Link(s) to work**
+1. [flutter_bloc Firebase Login Tutorial](https://felangel.github.io/bloc/#/flutterfirebaselogintutorial)
+2. [Private Repository](https://github.com/tomkastek/blog_to_app)
