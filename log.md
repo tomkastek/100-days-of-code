@@ -320,3 +320,21 @@
 **Link(s) to work**
 1. [flutter_bloc Firebase Login Tutorial](https://felangel.github.io/bloc/#/flutterfirebaselogintutorial)
 2. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 32: August 19, Monday
+
+**Today's Progress**: Added a tabbar and a ability to log out into my app.
+
+**Thoughts** -
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 33: August 20, Tuesday
+
+**Today's Progress**: Started to implement a onboarding into my app. Having a simple gridview showing gonly gaming category right now.
+
+**Thoughts** I need to do more planning on how the onboarding should look like.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
