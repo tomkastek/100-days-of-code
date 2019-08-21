@@ -338,3 +338,15 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 34: August 21, Wednesday
+
+**Today's Progress**: Interviewed my friends to find a good name for my project. App Onboarding contains some categories with pictures from pixabay. On click the picture blurs with a checkmark on top and a next button appears. Deselecting all categories lets the button disappear.
+
+**What I've learned**: How to create a blur effect.
+
+**Thoughts** I hate the process of finding a good name for a project. But I have some good alternatives now.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+2. [Blur on StackOverflow](https://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter)
