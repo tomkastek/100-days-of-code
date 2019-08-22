@@ -350,3 +350,12 @@
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
 2. [Blur on StackOverflow](https://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter)
+
+### Day 35: August 22, Thursday
+
+**Today's Progress**: Implemented my first animation into the blog project. Needs some refactoring now.
+
+**Thoughts** I miss swift enums :(
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
