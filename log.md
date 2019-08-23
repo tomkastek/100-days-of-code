@@ -359,3 +359,12 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 36: August 23, Friday
+
+**Today's Progress**: Somme refactoring, added another Animation on a button. Changed project name (no final decision yet)
+
+**Thoughts** Deciding for a project name is still the hardest decision I can do.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
