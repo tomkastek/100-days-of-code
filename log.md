@@ -368,3 +368,12 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 37: August 24, Saturday
+
+**Today's Progress**: No Internet today, added another animation
+
+**Thoughts** Plan was to search some blogs to create a testing area. Complicated without internet.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
