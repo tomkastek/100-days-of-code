@@ -377,3 +377,39 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 38: August 25, Sunday
+
+**Today's Progress**: Prepared a first page for the next onboarding page (recommended blogs) and refactoring a small piece of animation code.
+
+**Thoughts** No big progress today. 
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 39: August 26, Monday
+
+**Today's Progress**: A lot of refactoring and implemented a new bloc for the onboarding progress.
+
+**Thoughts** Refactoring is important, was a good day.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 40: August 27, Tuesday
+
+**Today's Progress**: Again some refactoring. I was not coding a lot. Was searchin about 3 hours for possible company names. Still no final decision.
+
+**Thoughts** -
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 41: August 28, Wednesday
+
+**Today's Progress**: Finally more functionality. I created a connection to Firestore to load recommended blogs depending on onboarding category selection.
+
+**Thoughts** I need to do a course to learn Firestore best practices. 
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
