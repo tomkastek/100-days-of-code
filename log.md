@@ -413,3 +413,12 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 42: August 29, Thursday
+
+**Today's Progress**: Nearly finished second page on onboarding. After recommended blogs are loaded, they are animating in like the first onboarding page and you can also select now blogs on this page.
+
+**Thoughts** Next step is to save those blogs as followed on Firestore and load the home page after. I need to take a course for this because I have to less experience in Firestore.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
