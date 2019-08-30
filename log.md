@@ -422,3 +422,12 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 43: August 30, Friday
+
+**Today's Progress**: For testability I added a function to my auth bloc to get back on the main page even without firebase interaction. I was thinking what solution I should use so that I do not depend on slow wordpress api (RSS? Own plugin?) and had a first look into Firebase CLoud Functions.
+
+**Thoughts** I start thinking that 100 days of code stops me in my progress as I am changing from a process of coding only to a lot of planning. Planning what solutions I shall use in my project, planning how I will gain customers and what their best value from this app will be.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
