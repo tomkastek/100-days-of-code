@@ -431,3 +431,12 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Day 44: August 31, Saturday
+
+**Today's Progress**: Added more tabs to my bottom tabbar. Also Added a top tabbar on my "Home"-Page and NotificationsPage.
+
+**Thoughts** I need to rethink my UX into a direction I want my platform to be like my vision of it.
+
+**Link(s) to work**
+1. [Private Repository](https://github.com/tomkastek/blog_to_app)
