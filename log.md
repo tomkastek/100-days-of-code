@@ -440,3 +440,11 @@
 
 **Link(s) to work**
 1. [Private Repository](https://github.com/tomkastek/blog_to_app)
+
+### Why I quit 100 days of code
+
+I was not posting any updates on GitHub for 3 days now. And it makes me feel free. I love this challenge. Before I started 100 Days of Code I was a person who was mainly gaming in the evening. Now I take the evening to do something "useful". I started by learning stuff in Flutter I wanted to learn for months. I copied a playstyle of my favorite game I wanted to copy since months. This challenge motivated me. After about a month I had the feeling that I want to create something that I can maybe upload onto the App/ Play Store. I got so much into it that I was not doing anything else. But as I want to use this project to test even more of starting your own business I need time to do something else as well. I only have about 2 hours every evening I can spend on this project. If I completely spend it into programming I have no time anymore to spend it into other stuff around it. For example, I used about three evenings just to find a name for my project. I still made no decision. Two of those evenings I was coding only small stuff like code refactoring or writing comments so that I do not use my brain a lot. And this is bad. I should have done no code and concentrate on what's important for me: Finding this name. And this is only one example for which I need time to do something else. 
+
+**What I learned**: As I said, this challenge was so important to me. I learned to find motivation for myself to do something every evening. I learned to not come home and say "Oh, I worked the day in the office, now I need to calm down and play video games until I sleep". This was so important to me and I felt so good for the last two months. I was happy about my progress, happy that I did just anything. So I continue the "100 Days of" challenge myself. But it is not "100 Days of Code" anymore. It is "Do something to publish a successful app every day". Maybe I will start a blog about it because it was interesting for me to hear from other startups and their process in the beginning.
+
+P.S. Probably I will use the upcoming 1-2 weeks only to structure my app etc.
